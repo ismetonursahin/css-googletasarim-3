@@ -177,7 +177,7 @@ a:hover{
 .altkısım2{
     display: inline-block;
     bottom: 0px;
-     position: absolute; 
+     position: fixed; 
     right: 0px;
 
     
