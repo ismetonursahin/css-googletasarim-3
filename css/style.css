@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.menuicon{
+    border-radius: 1px;
+    margin: auto 20px;
+    width: 25px;
+}
+
+.menuicon:hover{
+    box-shadow: 3px 3px 3px grey;
+}
+
+.button{
+    background-color: #1a73e8;
+    border-radius: 6px; 
+    color: aliceblue;
+    border: 1px solid transparent ;
+    width: 100px;
+    height: 30px;
+
+}
+
+button:hover{
+    background-color: #4285f4;
+    border: 2px solid #7d98c4;
+}
+
+a{ 
+    color: rgb(72, 68, 68);
+    font-size: 14px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 15px;
+    line-height: 20px;
+
+    
+}
+
+a:hover{
+    text-decoration: underline ;
+
+}
+
+#üstkısım{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 25px;
+    margin-top: 14px;
+    padding: 5px;
+
+}
+
+
+#ortakısım{
+    text-align: center;
+
+    
+    
+}
+
+#googlelogo{
+    margin-top: 50px;
+  
+}
+ 
+#arama{ 
+    width: 580px;
+    margin: 0px auto;
+    position: relative;
+    margin-top: -8px;
+    text-align: center;
+    display: block;
+
+}
+
+.s-input{
+    margin-top: 20px;
+    text-align: center;
+    display: block;
+    border: 1px solid #ddd ;
+    color: rgba(0,0,0,0.87);
+    font-size: 16px;
+    padding: 13px;
+    padding-left: 60px;
+    border-radius: 25px;
+    width: 100%; 
+    outline: none;
+
+
+}
+
+.s-input:hover{
+    opacity: 0.8;
+}
+
+
+.aramaicon{
+    width: 20px;
+    opacity: 0.4;
+    position: absolute;
+    top: 13px;
+    left: 14px;
+
+
+}
+
+.aramaicon:hover{
+    opacity: 0.8;
+
+}
+
+
+.sesliicon{
+    position: absolute;
+    width: 20px;
+    top: 14px;
+    right: 5px;
+
+
+}
+
+.sesliicon:hover{
+    opacity: 0.8;
+}
+
+
+.klavyeicon{
+    position: absolute;
+    width: 25px;
+    top: 11px;
+    right: -40px;
+    
+
+
+
+}
+
+.klavyeicon:hover{
+    opacity: 0.8;
+}
+
+
+.buttona{
+    text-align: center;
+    border: 1px solid transparent;
+    padding: 9px 15px;
+    color: rgb(0, 0, 0);
+    font-size: 14px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 28px;    
+    
+
+}
+
+.altkısım{
+   
+   
+}
+
+.altkısım1{
+    display: inline-block;
+    position: absolute;
+    bottom: 0px;
+    width: 500px;
+   
+    
+}
+
+.altkısım2{
+    display: inline-block;
+    bottom: 0px;
+     position: absolute; 
+    right: 0px;
+
+    
+    
+    
+    
+    
+    
+
+
+}
+
